@@ -1,0 +1,34 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: brown;
+    font-size: 45px;
+}
+
+.name {
+    color: blue;
+    font-weight: bold;
+}
+
+.school {
+    color: crimson;
+    font-weight: bold;
+}
+
+.total {
+    color: crimson;
+    font-weight: bold;
+}
+
+.score {
+    color: green;
+    font-weight: bold;
+}
+
+h3 {
+    color: lightsteelblue;
+    margin: 5px;
+}
